@@ -19,6 +19,8 @@ function App() {
     { name: "Remote Desktop", desc: "Remote Desktop users, connection permissions", icon: "" },
     { name: "Clipboard", desc: "Cut and copy history, sync, clear", icon: "" },
     { name: "About", desc: "Device specifications, rename PC, Windows specifications", icon: "" },
+    { name: "About", desc: "Device specifications, rename PC, Windows specifications", icon: "" },
+    { name: "About", desc: "Device specifications, rename PC, Windows specifications", icon: "" },
   ];
   const bluetooth = [
     { name: "Bluetooth", desc: "Bluetooth is turned off", icon: "" },
